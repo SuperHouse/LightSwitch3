@@ -1,4 +1,4 @@
-Home Automation Light Switches
+Home Automation Light Switch (3-Button)
 ===============================
 Copyright 2014 SuperHouse Automation Pty Ltd  
 SuperHouse site:  <www.superhouse.tv>  
@@ -8,7 +8,7 @@ in a wall panel as part of a home automation system.
 
 Features:
 
- * 2 Illuminated push buttons
+ * 3 Illuminated push buttons
  * RJ45 breakout to allow connecting using Cat-5 cable
 
 
